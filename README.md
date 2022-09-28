@@ -1,5 +1,5 @@
 # afterhours-project
-Next.jsで構築した個人プロジェクトサイト
+Next.js X Typescript
 
 ## 構成
 - Home
@@ -7,10 +7,10 @@ Next.jsで構築した個人プロジェクトサイト
 - Blog
 - Project
 
-## 開発環境
-### バージョン
+## development
+### Version
 - Node v16.17.0
 - npm v8.15.0
 
-### CSSフレームワーク
+### CSS framworks
 - tailwindcss (https://tailwindcss.com/docs/guides/nextjs)

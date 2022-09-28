@@ -28,6 +28,23 @@ const Footer: React.FC = () => {
         })}
       </ul>
       <small>&copy; czenhe 2022.</small>
+      <style jsx>{`
+          .footer {
+  display: flex;
+  flex: 1;
+  padding: 2rem 0;
+  border-top: 1px solid #eaeaea;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+}
+      `}</style>
     </footer>
   );
 };
